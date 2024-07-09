@@ -1,0 +1,21 @@
+{
+  "name": "Klinik Prima",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#f8fcfa",
+  "background_color": "#f8fcfa",
+  "icons": [
+    {
+      "src": "/src/assets/logo-app1.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/src/assets/logo-app2.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "form_factor": "wide"
+}

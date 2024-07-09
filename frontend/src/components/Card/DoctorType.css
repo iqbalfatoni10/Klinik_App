@@ -1,0 +1,11 @@
+.card img {
+    width: 210px;
+    height: 210px;
+}
+
+@media (max-width: 640px) {
+    .card img {
+        width: 100px;
+        height: 100px;
+    }
+}
